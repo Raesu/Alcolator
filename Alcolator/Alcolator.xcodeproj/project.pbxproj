@@ -15,7 +15,6 @@
 		FAA55C791B271E75004E5EA6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FAA55C771B271E75004E5EA6 /* LaunchScreen.xib */; };
 		FAA55C851B271E75004E5EA6 /* AlcolatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA55C841B271E75004E5EA6 /* AlcolatorTests.m */; };
 		FAA55C901B29AA48004E5EA6 /* WhiskeyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA55C8F1B29AA48004E5EA6 /* WhiskeyViewController.m */; };
-		FAA55C931B29B447004E5EA6 /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA55C921B29B447004E5EA6 /* MainMenuViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,8 +43,6 @@
 		FAA55C841B271E75004E5EA6 /* AlcolatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlcolatorTests.m; sourceTree = "<group>"; };
 		FAA55C8E1B29AA48004E5EA6 /* WhiskeyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhiskeyViewController.h; sourceTree = "<group>"; };
 		FAA55C8F1B29AA48004E5EA6 /* WhiskeyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhiskeyViewController.m; sourceTree = "<group>"; };
-		FAA55C911B29B447004E5EA6 /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
-		FAA55C921B29B447004E5EA6 /* MainMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,8 +86,6 @@
 			children = (
 				FAA55C6C1B271E75004E5EA6 /* AppDelegate.h */,
 				FAA55C6D1B271E75004E5EA6 /* AppDelegate.m */,
-				FAA55C911B29B447004E5EA6 /* MainMenuViewController.h */,
-				FAA55C921B29B447004E5EA6 /* MainMenuViewController.m */,
 				FAA55C6F1B271E75004E5EA6 /* ViewController.h */,
 				FAA55C701B271E75004E5EA6 /* ViewController.m */,
 				FAA55C8E1B29AA48004E5EA6 /* WhiskeyViewController.h */,
@@ -233,7 +228,6 @@
 				FAA55C901B29AA48004E5EA6 /* WhiskeyViewController.m in Sources */,
 				FAA55C6E1B271E75004E5EA6 /* AppDelegate.m in Sources */,
 				FAA55C6B1B271E75004E5EA6 /* main.m in Sources */,
-				FAA55C931B29B447004E5EA6 /* MainMenuViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
